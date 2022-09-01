@@ -1,3 +1,7 @@
+This software uses the wxWidgets framework which is licenced under their wxWindows Library Licence
+The wxWidgets source code can be found at: https://github.com/wxWidgets/wxWidgets
+The wxWidgets licence can be found at: https://github.com/wxWidgets/wxWidgets/blob/master/docs/licence.txt
+
 MIT License
 
 Copyright (c) 2022 Adam Baker
